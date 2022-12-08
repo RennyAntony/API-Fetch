@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+button {
+   
+  padding: 0;
+  width: 13vw;
+  height: 7.5vh ;
+  background-color: rgb(165, 163, 231);
+  color: black;
+  border-radius: 0px;
+}
+button:hover{
+  background-color: darkgrey;
+  
+}
+
+.head{
+  font-size:1.5vw;
+  background-color: aqua;
+}
+ 
+.head:hover {
+  font-size: 1.5vw ;
+  background-color: lavender;
+  color: brown;
+  transform: scale(1.1);
+
+}
